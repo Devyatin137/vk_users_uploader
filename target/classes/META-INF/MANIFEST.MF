@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: kdevy
+Build-Jdk: 17.0.10
+Main-Class: ru.seuslab.vkuploader.Collector
+Created-By: Maven Integration for Eclipse
+
